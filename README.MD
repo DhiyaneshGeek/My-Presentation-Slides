@@ -8,3 +8,7 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
     * IWCON (1st Edition)
 * [How to Write your First Nuclei Template?](slides/How-to-write-your-First-Nuclei-Template?.pdf)
     * BSides Ahmedabad (3rd Edition)
+
+## 2021
+* [Bypassing SAML Authentication](slides/Bypassing-SAML-Authentication.pdf)
+    * OWASP Dindigul
