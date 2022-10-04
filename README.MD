@@ -12,3 +12,5 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 ## 2021
 * [Bypassing SAML Authentication](slides/Bypassing-SAML-Authentication.pdf)
     * OWASP Dindigul
+
+* [Dependency Confusion](slides/Dependency-Confusion.pdf)
