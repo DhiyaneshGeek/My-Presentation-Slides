@@ -6,7 +6,7 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 ## 2022
 * [Security Automation (re)defined](slides/Security-Automation-(re)defined.pdf)
     * IWCON (1st Edition)
-* [How to Write your First Nuclei Template?](slides/How-to-write-your-First-Nuclei-Template?.pdf)
+* [How to Write your First Nuclei Template?](slides/How-to-write-your-First-Nuclei-Template.pdf)
     * BSides Ahmedabad (3rd Edition)
 
 ## 2021
