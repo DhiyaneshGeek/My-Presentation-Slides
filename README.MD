@@ -23,4 +23,4 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 
 * [Abusing API Key](slides/Abusing-API-Key.pdf)
 
-* [Abusing API Key](slides/Bypassing-the-Rate-Limiting.pdf)
+* [Bypassing the Rate Limiting](slides/Bypassing-the-Rate-Limiting.pdf)
