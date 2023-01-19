@@ -18,6 +18,8 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 * [Demystifying Insecure Deserialisation on JSF application](slides/)
     * OWASP Dindigul
 
+* [Dependency Confusion: The Story of Supply Chain Attack](slides/Dependency-Confusion.pdf)
+
 ## 2020
 * [Tech Talk on Cyber Security](slides/Tech-Talk-on-Cyber-Security.pdf)
     * SRM Institue of Science and Technology
