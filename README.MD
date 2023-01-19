@@ -14,17 +14,13 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 ## 2021
 * [Bypassing SAML Authentication](slides/Bypassing-SAML-Authentication.pdf)
     * OWASP Dindigul
-
 * [Demystifying Insecure Deserialisation on JSF application](slides/)
     * OWASP Dindigul
-
 * [Dependency Confusion: The Story of Supply Chain Attack](slides/Dependency-Confusion.pdf)
 
 ## 2020
 * [Tech Talk on Cyber Security](slides/Tech-Talk-on-Cyber-Security.pdf)
     * SRM Institue of Science and Technology
     * Dr.N.G.P. Arts and Science College
-
 * [Abusing API Key](slides/Abusing-API-Key.pdf)
-
 * [Bypassing the Rate Limiting](slides/Bypassing-the-Rate-Limiting.pdf)
