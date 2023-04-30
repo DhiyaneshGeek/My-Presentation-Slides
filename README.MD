@@ -5,6 +5,10 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 * Hackerone: [Geek Freak](https://hackerone.com/geekfreak)
 * LinkedIn: [Dhiyaneshwaran Balasubramaniam](https://www.linkedin.com/in/dhiyaneshwaran-balasubramaniam-27947a131/)
 
+## 2023
+* [Nuclei Template Extensive Usage](slides/Nuclei-Template-Extensive-Usage.pdf)
+    * [SecurityBoat Meetup April](https://securityboat.in/events/sb-meetups-april-2023/)
+
 ## 2022
 * [Security Automation (re)defined](slides/Security-Automation-(re)defined.pdf)
     * IWCON (1st Edition)
