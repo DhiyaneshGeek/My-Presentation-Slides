@@ -5,8 +5,8 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 * Hackerone: [Geek Freak](https://hackerone.com/geekfreak)
 * LinkedIn: [Dhiyaneshwaran Balasubramaniam](https://www.linkedin.com/in/dhiyaneshwaran-balasubramaniam-27947a131/)
 
-## 2023
-* [Roundtable Recon](slides/Recon.pdf)
+## 2024
+* [Roundtable: Recon](slides/Recon.pdf)
     * [Hardly Strictly Security](https://hardlystrictlysecurity.io/schedule)
 
 ## 2023
