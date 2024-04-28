@@ -6,6 +6,10 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 * LinkedIn: [Dhiyaneshwaran Balasubramaniam](https://www.linkedin.com/in/dhiyaneshwaran-balasubramaniam-27947a131/)
 
 ## 2023
+* [Roundtable Recon](slides/Recon.pdf)
+    * [Hardly Strictly Security](https://hardlystrictlysecurity.io/schedule)
+
+## 2023
 * [Nuclei Template Extensive Usage](slides/Nuclei-Template-Extensive-Usage.pdf)
     * [SecurityBoat Meetup April](https://securityboat.in/events/sb-meetups-april-2023/)
 
