@@ -10,7 +10,7 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
     * [Hardly Strictly Security](https://hardlystrictlysecurity.io/schedule)
 * [Unveiling Vulnerabilities: A Comprehensive Guide to Bug Bounty Recon](https://docs.google.com/presentation/d/1gaBwSdjiA4Vj38GKxMS8Eoz2KgxwVfx6ae0iuCSN1rs/pub?start=false&loop=false&delayms=3000)
     * [BugBounty Village Defcon32](https://www.bugbountydefcon.com/presentations)
-* [Vulnerability Scanning and Enumeration with Nuclei - Deep Dive] (https://docs.google.com/presentation/d/1b_qrWcz_aMr0XdZtfLv7w6EWstRcwQ0F84q6gBLTJN8/edit?usp=sharing)
+* [Vulnerability Scanning and Enumeration with Nuclei - Deep Dive](https://docs.google.com/presentation/d/1b_qrWcz_aMr0XdZtfLv7w6EWstRcwQ0F84q6gBLTJN8/edit?usp=sharing)
     * [Session 2](https://bsidesahmedabad.in/schedule/)
 
 ## 2023
