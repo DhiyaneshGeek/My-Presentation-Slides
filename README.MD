@@ -5,6 +5,10 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 * Hackerone: [Geek Freak](https://hackerone.com/geekfreak)
 * LinkedIn: [Dhiyaneshwaran Balasubramaniam](https://www.linkedin.com/in/dhiyaneshwaran-balasubramaniam-27947a131/)
 
+## 2025
+* [Ethical Hacking & Bug Bounty](slides/Ethical-Hacking-and-Bug-Bounty.pdf)
+    * KPR College Of Arts Science and Research
+
 ## 2024
 * [Roundtable: Recon](slides/Recon.pdf)
     * [Hardly Strictly Security](https://hardlystrictlysecurity.io/schedule)
