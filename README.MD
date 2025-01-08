@@ -6,7 +6,7 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 * LinkedIn: [Dhiyaneshwaran Balasubramaniam](https://www.linkedin.com/in/dhiyaneshwaran-balasubramaniam-27947a131/)
 
 ## 2025
-* [Ethical Hacking & Bug Bounty](slides/Ethical-Hacking-and-Bug-Bounty.pdf)
+* [Ethical Hacking & Bug Bounty: Career in Cyber Security](slides/Ethical-Hacking-and-Bug-Bounty.pdf)
     * KPR College Of Arts Science and Research
 
 ## 2024
