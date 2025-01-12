@@ -8,6 +8,8 @@ Collections of Dhiyaneshwaran public presentation slides. You can find me at:
 ## 2025
 * [Ethical Hacking & Bug Bounty: Career in Cyber Security](slides/Ethical-Hacking-and-Bug-Bounty.pdf)
     * KPR College Of Arts Science and Research
+* [Getting Started with Nuclei DAST and Global Templates](slides/Getting-Started-with-Nuclei-DAST-and-Global-Templates.pdf)
+    * [Hack The Box's Mumbai Meetup](https://www.meetup.com/hack-the-box-meetup-mumbai-in/events/305452569/)
 
 ## 2024
 * [Roundtable: Recon](slides/Recon.pdf)
